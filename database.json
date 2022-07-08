@@ -1,0 +1,7 @@
+{
+    "host":"customer-data.cvsaqdvry0bd.us-west-1.rds.amazonaws.com",
+    "user":"sunbo",
+    "password":"wjdtnsqh45",
+    "port":"3306",
+    "database":"customers"
+}
